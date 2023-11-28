@@ -12,7 +12,9 @@ WIP
 
 ## Blog
 
-WIP
+### Week 47
+
+Group Prinsessbakelse was formed and first met online to discuss and author a project proposal report.
 
 <!--
 
