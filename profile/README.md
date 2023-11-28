@@ -18,8 +18,8 @@ For Week 48, group Prinsessbakelse received high appraisal for the project propo
 * A basic computer vision (CV) component for auto extraction of facial features from a live digital video stream
   *  Jo-Ying Tsai
   *  Sheng-Yu Wu
-* A basic machine learning (ML) component for predicting high-level representations of behaviour from the CV captured features
+* A basic machine learning (ML) component for predicting high-level representations of behaviour from the CV-captured features
   * Adam Ross
-* A basic FurHat Robot component for responding to mapped ML predictions of CV captured features with socially adaptive behaviour 
+* A basic FurHat Robot component for responding to mapped ML predictions of CV-captured features with socially adaptive behaviour 
   * Alan Christian
   * Shiran Sun
