@@ -14,7 +14,7 @@ WIP
 
 ### Week 48
 
-For Week 48, group Prinsessbakelse received high appraisal for the project proposal with confirmation of approval to advance the plan into development. In a follow-up group meeting, an initial development plan was established to implement a prototype pipeline consisting of basic features and functionality in preparation for the first public presentation scheduled on the 6th of December. The initial pipeline development plan is:
+For Week 48, an initial development plan was established in a group meeting to implement a prototype pipeline consisting of basic features and functionality in preparation for the first public presentation scheduled on the 6th of December. The initial pipeline development plan is:
 * A basic computer vision (CV) component for auto extraction of facial features from a live digital video stream
   *  Jo-Ying Tsai
   *  Sheng-Yu Wu
