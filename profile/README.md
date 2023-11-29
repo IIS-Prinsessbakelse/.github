@@ -14,7 +14,7 @@ WIP
 
 ### Week 47
 
-Group Prinsessbakelse was formed and first met online to discuss and author a project proposal report. The project proposal received high appraisal with confirmation of approval to advance the plan into development. 
+Group Prinsessbakelse was formed and first met online to discuss and author a project proposal report. The proposal received high appraisal with confirmation of approval to advance the plan into development with preference for a human-computer interaction (HCI) survey specialisation.
 
 <!--
 
