@@ -14,7 +14,7 @@ WIP
 
 ### Week 47
 
-Group Prinsessbakelse was formed and first met online to discuss and author a project proposal report. The proposal received high appraisal with confirmation of approval to advance the plan into development with preference for a human-computer interaction (HCI) survey specialisation.
+Group Prinsessbakelse was formed and first met online to discuss and author a project proposal report. The proposal received high appraisal with confirmation of approval to advance the plan into development with the preference for human-computer interaction (HCI) survey specialisation regarding a "mindful coach" Furhat robot agent. A GitHub organisation was created for the collaborative Git development and blogging of this.
 
 <!--
 
