@@ -12,15 +12,14 @@ WIP
 
 ## Blog
 
-WIP
+### Week 48
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+For Week 48, an initial development plan was established in a group meeting to implement a prototype pipeline consisting of basic features and functionality in preparation for the first public presentation scheduled on the 6th of December. The initial pipeline development plan is:
+* A basic computer vision (CV) component for auto extraction of facial features from a live digital video stream
+  *  Jo-Ying Tsai
+  *  Sheng-Yu Wu
+* A basic machine learning (ML) component for predicting high-level representations of behaviour from the CV-captured features
+  * Adam Ross
+* A basic FurHat Robot component for responding to mapped ML predictions of CV-captured features with socially adaptive behaviour 
+  * Alan Christian
+  * Shiran Sun
