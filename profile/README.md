@@ -12,6 +12,10 @@ WIP
 
 ## Blog
 
+### Week 47
+
+Group Prinsessbakelse was formed and first met online to discuss and author a project proposal report. The proposal received high appraisal with confirmation of approval to advance the plan into development with the preference for human-computer interaction (HCI) survey specialisation regarding a "mindful coach" Furhat robot agent. A GitHub organisation was created for the collaborative Git development and blogging of this.
+
 ### Week 48
 
 For Week 48, an initial development plan was established in a group meeting to implement a prototype pipeline consisting of basic features and functionality in preparation for the first public presentation scheduled on the 6th of December. The initial pipeline development plan is:
